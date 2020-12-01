@@ -4,6 +4,7 @@ description:
 date: 2020-12-01
 categories: 
     - UI设计
+    - 动效设计
     - 交互设计
 tags: 
     - App产品思维
@@ -12,8 +13,6 @@ draft: false
 ---
 
  [完整 PDF 下载](../../../../../Downloads/UI应聘者张璇-WBF项目.pdf)
-
-
 
 ![wbf-1](https://cdn.imzsy.design/wbf-1.png)
 ![wbf-2](https://cdn.imzsy.design/wbf-2.png)
