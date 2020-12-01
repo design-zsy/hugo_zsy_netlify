@@ -8,7 +8,7 @@ categories:
 tags: 
     - App产品思维
 image: https://cdn.imzsy.design/wbf.png
-draft: true
+draft: false
 ---
 
  [完整 PDF 下载](../../../../../Downloads/UI应聘者张璇-WBF项目.pdf)
